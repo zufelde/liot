@@ -1,6 +1,24 @@
 # Compiled class file
 *.class
 
+# IDE project files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+**/nbproject/private/
+
+# Build output
+target/
+out/
+build/
+bin/
+dist/
+.gradle/
+
 # Log file
 *.log
 
